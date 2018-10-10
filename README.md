@@ -5,6 +5,6 @@ Word Embedding: A distributed representation of words where different words that
 Convolutional Model: A feature extraction model that learns to extract salient features from documents represented using a word embedding.
 Fully Connected Model: The interpretation of extracted features in terms of a predictive output.
 
-[doc_classification cnn.png]
+[[doc_classification cnn.png]]
 
 
